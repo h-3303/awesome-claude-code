@@ -30,7 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
-| [claude-music](https://github.com/h-3303/claude-music) | h-3303 | Playlist sync and library tidying through your own Nicotine+ (Soulseek) client and MusicBrainz; two MCP servers, two skills, one agent. |
+| [flacli](https://github.com/h-3303/flacli) | h-3303 | Playlists and named albums onto disk through your own Nicotine+ (Soulseek) client and MusicBrainz, then a tidy library; a CLI, two MCP servers (15 or 55 tools), three skills, one agent. |
 
 ## MCP Servers
 
